@@ -7,3 +7,8 @@ The *ice* folder contains in-class exercises.
 ## About Me
 Simon Dharmakirthi https://www.linkedin.com/in/simon-dharmakirthi-74184bba/
 I’m an expert front end web developer with skills in HTML, CSS & JavaScript. Wishing to use my skills to continue the success of your company through the development of your website/mobile apps. 
+
+## Merging
+1. Item 1 [Google]
+2. Item 2
+3. Item 3
