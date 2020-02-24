@@ -1,20 +1,14 @@
-Learn more or give us feedback
 import React from 'react';
 import './index.css';
 
 class Card extends React.Component {
-    constructor(props) {
-        super(props);
-        this.props = props;
-        this.content = this.props.content;
-    }
-    render() {
-        return(
-            <div className="card">
-                {this.content}
-            </div>
-        )
-    }
+  render () {
+    return(
+      <div className="card">
+        <h1>{this.props.content}</h1>
+      </div>
+    );
+  }
 }
 
 export default Card;
