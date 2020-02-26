@@ -1,9 +1,8 @@
-// Import correct component
-let Card; // This creates a reference to the Card Class
+import Card from "./components/Card/index.js";
 
 function runOnLoad()
 {
-    // Create a container for us
+     // Create a container for us
     element = document.createElement("div");
     element.id = "container";
     document.body.appendChild(element);
